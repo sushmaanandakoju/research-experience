@@ -2,6 +2,8 @@
 
 **Keywords:** Representational Alignment, Human-AI/Brain-AI Alignment, Multimodal AI/NLP, Cognitive Science, Neuroscience and Teaching.
 
+My website is most up to date than this repository: From February 2026 <a href="https://sushmaanandakoju.github.io/">https://sushmaanandakoju.github.io/</a>
+
 00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
 0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/study.md">From learning as a hobby towards academic goals</a>
