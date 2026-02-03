@@ -213,7 +213,7 @@ This example illustrates the importance of comprehensive evidence evaluation and
 
 Please let me know if you need full First Order Logic forms and clausal forms and several proof interpretations of this piece of example. It was a very interesting example if you enjoy policy interpretations.
 
-I am Sushma Anand Akoju (pronouns: she/her), PhD student, focussed on Natural Language Understanding, Neurosymbolic Methods.
+I am Sushma Anand Akoju (pronouns: she/her), PhD student, focussed on Representational Alignment.
 
 ---
 

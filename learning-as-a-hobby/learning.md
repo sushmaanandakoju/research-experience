@@ -1,20 +1,9 @@
 
-## Learning as a hobby: Neurosymbolic Methods in AI
+## Learning as a hobby: AI
 
-I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries. My gratitude to all longterm mentors and shortterm mentors whenever I received support. I did not consistently receive mentorship, but it was some occassions when my mentors recognized I was interested to study.
+I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries. My gratitude to all longterm mentors and shortterm mentors whenever I received support. I did not consistently receive mentorship, but it was some occassions when my mentors recognized I was interested to study. I hope this brings inspiration for anyone to study anything one likes and be committed and disciplined to learn. 
 
-#### Purpose of this page 
-
-***********************
-**_This Purpose statement only refined with assistance from Anthropic's Claude AI._**
-
-This compilation serves as a record of my self-directed learning and is shared with the following principles:
-- To provide context for my academic and research background.
-- To document the progression of my interests and expertise.
-- Not intended for competitive purposes or professional promotion or intellectual domination or self-sustainability.
-- Reflects voluntary learning outside of funded research projects.
-
-*********************
+<p id="context" class="highlight"><strong>Note about Neurosymbolic AI: </strong> Although neurosymbolic AI was an exciting area for me in the past, I'm no longer working on that topic. It was a pleasure to be part of NeSy groups. I'm glad my learning projects have inspired others in Arizona and other places.</p>
 
 ### Note on Course Selection and Academic Context
 
@@ -23,8 +12,8 @@ The courses listed in these sections reflect areas of study that were not part o
 ## Courses and subjects learnt outside of University's listed courses
 
 1. Fundamentals Of Neuroscience (Audit, online course), Summer 2022
-2. Neuroscience of Reasoning, 2023 $\color{blue}(notes, WIP)$
-3. Fundamentals Of Neuroscience (self-learning through textbooks), 2024, ongoing  $\color{blue}(notes, WIP)$
+2. Neuroscience of Reasoning, 2023 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+3. Fundamentals Of Neuroscience (self-learning through textbooks), 2024, ongoing  <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 4. Neural Basis of Language, 2024 (through another online material)
 5. Study on Theory of Computation, 2021 onwards
 6. Study of Automated Theorem Proving, 2020
@@ -63,9 +52,10 @@ The courses listed in these sections reflect areas of study that were not part o
 ## Neuroscience and Cognitive Science
 
 - Fundamentals Of Neuroscience (Audit), Summer 2022
-- Neuroscience of Reasoning, 2023 $\color{blue}(notes, WIP)$
-- Fundamentals Of Neuroscience (enrolled), 2024, ongoing  $\color{blue}(notes, WIP)$
-- Consciousness theory and neuroscience (based on research works) and <a href="https://amcs-community.org/">AMCS</a> talks, from 2023 - ongoing
+- Neuroscience of Reasoning, 2023 
+- Fundamentals Of Neuroscience (enrolled), 2024, ongoing  
+- Consciousness theory and neuroscience (based on research works) and <a href="https://amcs-community.org/">Association for Mathematical Consciousness Science (AMCS) </a> - attending talks, from 2023 - ongoing
+- Member of and attending <a href="https://www.uni-bamberg.de/en/bamxi/">Bamberg Mathematical Consciousness Science Initiative (BAMΞ) </a> and their great workshops and talks, 2025 - ongoing</a>
 - Cognitive science aspects of Language, Audio and Vision
 - Cognitive Science Colloquium, University of Arizona (<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cogsci-Summary_of_Talks_related_to_Consciousness__Metacognition_and_Representation_Similarity_Analysis.pdf"> Cognitive Science Colloquium, COGS 595, Fall 2022</a>, <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cog-sci-summary_of_Talks_related_to_Episodic_memory__Sentience__Social_norms_and_discussion_dynamics.pdf"> Cognitive Science Colloquium, COGS 595, Spring 2023</a>)
 - Neural Basis of Language, PSY 530, Fall 2023 (readings)
@@ -78,23 +68,23 @@ The courses listed in these sections reflect areas of study that were not part o
 
 - Machine Learning Textbook, 2018 (referred by mentors)
 - Machine Learning Algorithms & Implementation, 2020
-    - $\textit{\color{brown}Proof of study for Machine Learning algorithms and implementation}$ 
+    -  for Machine Learning algorithms and implementation 
         - <a href="https://github.com/sushmaakoju/ml-algorithms">Implementation of Machine Learning algorithms</a>
-        - $\textit{\color{brown}Proof of study and applications of Machine Learning}$ 
+        -  and applications of Machine Learning 
         - <a href="https://github.com/sushmaakoju/regression-api/">Implemented Machine Learning algorithm based regression analysis for a project</a> 
 - Implementing algorithms for vectors and matrices using numpy, 2020 (Google Colab)
-    - $\textit{\color{brown}Proof of study for implementation of algorithms using numpy}$
+    -  for implementation of algorithms using numpy
     - <a href="https://github.com/sushmaakoju/numpy-algorithms-data-structures">Implementation of algorithms using numpy</a>
 - Statistical Machine Learning, Fall 2021
 - Machine Unlearning, Spring 2024
-    - $\textit{\color{brown}Proof of study and concept}$
+    -  and concept
     - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">I worked on short literature review on Adaptive Machine Unlearning. </a>
-    - To include the report for the unlearning in LLMs.  $\color{blue}(notes, WIP)$
+    - To include the report for the unlearning in LLMs.  <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 
 ## Theoretical Logic
 
 - <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#course-project-for-10812-architectures-in-never-ending-learning-spring-2018-prof-tom-mitchell-and-abulhair-saparov">The course project on first order logic for a class as an employee of Yahoo Inmind, supervised by Abulhair Saparov, grateful!</a>
-- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) $\color{blue}(notes, WIP)$
+- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Study on Theory of Computation, 2021 onwards
 - Study of First Order Logic and Second Order Logic (as a language), 2018
 - Study of Automated Theorem Proving, 2020
@@ -110,10 +100,10 @@ The courses listed in these sections reflect areas of study that were not part o
 
 The following topics change how one perceives and views language as a symbolic representation itself and how any other representations of language also appear symbolic.
 
-- Constructed Languages Conlanging, 2020 (referred by mentor+friend) $\color{blue}(notes, WIP)$
+- Constructed Languages Conlanging, 2020 (referred by mentor+friend) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - References in World Atlas of Language Structures, 2019 onwards
 - History of Language, 2019 (referred by mentor+friend)
-- Automata, Grammars and Languages, Summer 2021 (referred by mentor+friend) $\color{blue}(notes, WIP)$ 
+- Automata, Grammars and Languages, Summer 2021 (referred by mentor+friend) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a> 
 - Smart Contracts as a language and Turing-completeness, 2021 onwards
 - Study on Theory of Computation, 2021 onwards
 - Study of Language of Proteins in Computational Biology, 2021 onwards
@@ -134,52 +124,52 @@ The following topics change how one perceives and views language as a symbolic r
 
 - Study of neuroscience of reasoning, 2021 onwards
 - Study of Cognitive neuroscience of language, 2021 onwards
-- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) $\color{blue}(notes, WIP)$
-- Automated Theorem Proving, 2018-19 (referred by mentor+friend) $\color{blue}(notes, WIP)$
+- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Automated Theorem Proving, 2018-19 (referred by mentor+friend) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Symbolic Logic, 2019 (referred by mentor+friend)
-- $\textit{\color{brown}Proof of study for languages and real-time applications}$ 
+-  for languages and real-time applications 
     - <a href="https://github.com/sushmaakoju/polynomial-equation-parser"> Implemented Polynomial Equation Parser by learning about Context Free Languages and SymPy libraries, Spring 2020 - Fall 2020 </a> 
-- Knowledge Representation and Reasoning (KRR), 2021 $\color{blue}(notes, WIP)$ (referred by mentor+friend
+- Knowledge Representation and Reasoning (KRR), 2021 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a> (referred by mentor+friend
 - Markov Logic Networks, 
-    - $\textit{\color{brown}Proof of study/concept}$ 
+    - /concept 
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-mln-stats-fall-2021-final.pdf">MLN, Fall 2021</a> 
 - Abstract Meaning Representation (AMR), 2021 (referred by mentor)
-    - $\textit{\color{brown}Proof of concept understanding}$ 
+    - \textit{\color{brownProof of concept understanding 
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md#mar-18th-2023">Extended applications using AMR, 2022</a> 
-- Logical Neural Networks, 2021 $\color{blue}(notes, WIP)$ (referred by mentor)
-- Transition AMR Parser, 2021 $\color{blue}(notes, WIP)$ (referred by mentor)
+- Logical Neural Networks, 2021 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a> (referred by mentor)
+- Transition AMR Parser, 2021 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a> (referred by mentor)
 - Automated Theorem Proving, Spring 2022
-    - $\textit{\color{brown}Proof of study and implementation for proof of concept}$
+    -  and implementation for proof of concept
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-Theorem%20Prover.pdf">Theorem Prover using Entscheidungsproblem and Microsoft Z3 Solver and Prover</a> 
         - <a href="https://github.com/sushmaakoju/demo-ATLS5214">Demo for Big Data Architecture class by implementing Theorem Provers for 3 simple examples</a> 
-- Combinatorial Categorical Grammar (CCG) Parsers, Fall 2022 $\color{blue}(notes, WIP)$
+- Combinatorial Categorical Grammar (CCG) Parsers, Fall 2022 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Neural Symbolic Cognitive Reasoning book, Spring + Summer 2022
     <sup><sub>(authors: by Artur S. d’Avila Garcez , Luís C. Lamb , Dov M. Gabbay)</sub></sup>
-    $\color{blue}(notes, WIP)$
+    <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Handbook of Practical Logic and Automated Reasoning from 2009, 2022-2023
 - Natural Logic and Natural Language Inference on SICCK dataset, May 2023 
-    - $\textit{\color{brown}Proof of study, concept and understanding for NLP, Natural Logic, NLI Sep 2022 - June 2023}$
+    - , concept and understanding for NLP, Natural Logic, NLI Sep 2022 - June 2023
         - <a href="https://github.com/sushmaakoju/acl2023-nlrse-clulab-SICCK-dataset"> Natural Language Reasoning and Structured Explanations (NLRSE) Workshop, ACL 2023</a> 
-- Natural Logic & Handbook of Logic and Language from 1997, 2022 - 2024 $\color{blue}(notes, WIP)$
-    - $\textit{\color{brown}Proof of study and concept, with details of the statuses}$
+- Natural Logic & Handbook of Logic and Language from 1997, 2022 - 2024 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+    -  and concept, with details of the statuses
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/Natural-logic-group-meeting.pdf">Natural Logic Meeting minutes and weekly task/study statuses</a> 
 - Symbolic Logic, Fall 2023
 
 ### Workshops & Tutorials at Conferences
 
-- Neurosymbolic Methods - 2020, 2021, 2022, 2023, 2024 (NucLeaR) Workshops at ICLR, AAAI and Neurips since 2021 $\color{blue}(notes, WIP)$
-- Neurosymbolic AI Summer School - 2024 $\color{blue}(notes, WIP)$
+- Neurosymbolic Methods - 2020, 2021, 2022, 2023, 2024 (NucLeaR) Workshops at ICLR, AAAI and Neurips since 2021 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Neurosymbolic AI Summer School - 2024 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Workshops and Tutorials, EMNLP, 2022, 2024
-- European Summer School in Logic, Language and Information, 2021 & 2022 $\color{blue}(notes, WIP)$
+- European Summer School in Logic, Language and Information, 2021 & 2022 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 
 ## Neural Networks and Deep Learning
 
 - Neural Networks, 2015-2017
 - Deep Reinforcement Learning, 2019 (referred by mentor+friend)
 - Natural Language Processing, Youtube/online lecture materials, Summer 2021
-- Deep Learning Architectures, Summer & Fall 2022 $\color{blue}(notes, WIP)$
+- Deep Learning Architectures, Summer & Fall 2022 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Neural Networks and Deep Learning Spring 2022
-    - $\textit{\color{brown}Proof of study, concepts and applications for real-world}$
+    - , concepts and applications for real-world
         - <a href="https://github.com/sushmaakoju/image_sampling"> Image sampling and training using Yolo V3/V4, Fall 2020 - Spring 2021 </a>
         - <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task">SemEval Task 4 Patronizing and Condescending Language Detection (PCL) using Roberta, SpanBERT, Fall 2021</a>
         - <a href="https://github.com/sushmaakoju/nlp-bio-bert">BIO tags over biomedical data (learning of the language of biomedical data) using BERT for NER , Fall 2021</a>
@@ -190,8 +180,8 @@ The following topics change how one perceives and views language as a symbolic r
         - <a href="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes">Independent Study: Study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes (British Parliamentary Papers) using MacBERTh, Summer 2022</a>
         - <a href="https://github.com/sushmaakoju/acl2023-nlrse-clulab-SICCK-dataset"> Evaluation of SICCK dataset over Roberta and Deberta, Fall 2022 - Spring 2023</a>
         - Neural Networks, INFO 557, Fall 2023 (Audited) & completed <a href="https://www.deeplearningbook.org/">textbook</a>
-- Decision making under Uncertainty, 2024 - ongoing $\color{blue}(notes, WIP)$
-- Deep Learning for Audio Processing, 2024 - ongoing $\color{blue}(notes, WIP)$
+- Decision making under Uncertainty, 2024 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Deep Learning for Audio Processing, 2024 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 
 ## Natural Language Processing
 
@@ -200,8 +190,8 @@ The following topics change how one perceives and views language as a symbolic r
 - Audio signal Encoding algorithms, 2017
 - Natural Language Processing, Summer 2021
 - Natural Language Processing, Fall 2021 
-    - $\textit{\color{brown}Proof of study, concepts and applications for real-world}$
-        - $\textit{\color{brown}Proof of study and concepts:}$
+    - , concepts and applications for real-world
+        -  and concepts:
         - <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task"> Reports & Source code: SemEval Task 4 Patronizing and Condescending Language Detection (PCL) using Roberta, SpanBERT - ranked 1 in the first round, Fall 2021</a>   
         - <a href="https://github.com/sushmaakoju/nlp-bio-bert">BIO tags over biomedical data (learning of the language of biomedical data) using BERT for NER , Fall 2021</a> 
         - <a href="https://github.com/sushmaakoju/reasoning-knowledge-representation">Finetuning and evaluation using StrategyQA, BoolQA and EntailmentBank datasets using Roberta, Fall 2021</a>
@@ -217,14 +207,14 @@ The following topics change how one perceives and views language as a symbolic r
 - Natural Language Processing algorithms Implementation (Google Colab)
     - Edit Distance, Naive Bayes Text classification, Logistic regression, Word embeddings, GloVE & Word2Vec, SentenceEmbeddings,  Neural Networks, RNNs, LSTMs, Transformers, Masked Language Models (MLMs), Next Sentence Prediction (NSP), BERT models (BERT, Key-BERT, Span-BERT, MegatronBERT, visual bert, Visual BERT).
     - Most downstream tasks that used Language Models seem to use implementations based on available templates and they seem to be modified to adapt to the requirements of specific tasks.
-    - $\textit{\color{brown}Proof of study with partial implementation (since downstream tasks examples were run for understanding the implementation, leaving less room for full implementation):}$ 
+    -  with partial implementation (since downstream tasks examples were run for understanding the implementation, leaving less room for full implementation): 
         - <a href="https://drive.google.com/drive/folders/Colab Notebooks/NLP">drive link will be shared upon request, on need-basis</a>
 
 ## Natural Language Understanding
 
 - Language Understanding and Intent recognition, 2016
-- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$ (referred by mentor+friend)
-- Natural Language Understanding (with LLMs), 2024, ongoing $\color{blue}(notes, WIP)$
+- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a> (referred by mentor+friend)
+- Natural Language Understanding (with LLMs), 2024, ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Study on Context Free Languages (such as Programming Languages)
 - Study of Language of Proteins in Computational Biology
 - Study of Smart Contracts as a language and Turing-completeness, 2021
@@ -239,7 +229,7 @@ The following topics change how one perceives and views language as a symbolic r
 
 ## Image Processing and Computer Vision
 
-- Computational Geometry, 2020 $\color{blue}(notes, WIP)$
+- Computational Geometry, 2020 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Image Processing, Image Classification, 2020
 - Computer Vision, 2020
 
@@ -250,46 +240,44 @@ The following topics change how one perceives and views language as a symbolic r
 - Basics of Speech Processing, 2016-2017
 - Audio signal Encoding algorithms, 2017
 - Image Sampling applications, 2021
-    - $\textit{\color{brown}Proof of study and implementation for applications of Image processing, 2020 and an application for Fundamentals of Learning from the Crowd, 2017}$
+    -  and implementation for applications of Image processing, 2020 and an application for Fundamentals of Learning from the Crowd, 2017
         - <a href="https://github.com/sushmaakoju/image_sampling"> Resampling using Ground Sampling Distance over Satellite Images</a> and <a href="https://github.com/sushmaakoju/mturk-task-helper"> Data augmentation, marking, developing pipeline for annotations and assessments for Object detection and classification tasks respectively</a> 
 - Study of AI methods to convert Images to Text, Summer 2022 
-    - $\textit{\color{brown}Proof of study and implementation for real-world applications:}$ 
+    -  and implementation for real-world applications: 
         - <a href="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes">Independent Study: Study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes (British Parliamentary Papers)</a>
 - Image Processing, Image Classification and Image Segmentation, Summer 2022
-- MultiModal AI, 2023 - ongoing $\color{blue}(notes, WIP)$
-- Deep Learning for Audio Processing, 2024 - ongoing $\color{blue}(notes, WIP)$
-- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$ (referred by mentor+friend)
+- MultiModal AI, 2023 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Deep Learning for Audio Processing, 2024 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a> (referred by mentor+friend)
 
 ## Large Language Models
 
-- Natural Language Understanding (with LLMs), 2024, ongoing $\color{blue}(notes, WIP)$
-- Representation Learning, Spring 2024 - ongoing $\color{blue}(notes, WIP)$
-- Large Language Models, Summer 2023 - ongoing $\color{blue}(notes, WIP)$
-- Generative AI, 2024 - ongoing $\color{blue}(notes, WIP)$
-- Deep Generative AI models, 2023- 2024, ongoing $\color{blue}(notes, WIP)$
-- Neural Compression, 2024 - ongoing $\color{blue}(notes, WIP)$
+- Natural Language Understanding (with LLMs), 2024, ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Representation Learning, Spring 2024 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Large Language Models, Summer 2023 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Generative AI, 2024 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Deep Generative AI models, 2023- 2024, ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
+- Neural Compression, 2024 - ongoing <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 
 ## Probability and Statistics
 
 - Probability and Statistics, 2015
 - 10-709 Fall: Fundamentals of Learning from the Crowd, Carnegie Mellon University (Audit), 2017
-- Analysis in Euclidean Space, Textbook - 2019 $\color{blue}(notes, WIP)$
+- Analysis in Euclidean Space, Textbook - 2019 <a href="https://github.com/sushmaanandakoju/notes"> Status on notes and why they will not be updated.</a>
 - Statistical Methods and Probability I and II, Fall 2021 - Spring 2022
 - Neural Networks and Deep Learning architectures, Spring 2022
 
 ## Basic Computer Science stuff
 - Algorithms (3 courses), 2019 (referred by mentor+friend)
 - Algorithms, 2020 
-    - $\textit{\color{brown}Proof of study for algorithms and implementation}$ 
+    -  for algorithms and implementation
         - <a href="https://github.com/sushmaakoju/algorithms">Implementation of some algorithms </a>
 - Advanced Algorithms, 2020 (referred by mentor+friend)
 - Data Structures, 2020 (referred by mentor+friend)
-    - $\textit{\color{brown}Proof of study for data structures and implementation}$ 
+    -  for data structures and implementation 
         - <a href="https://github.com/sushmaakoju/datastructures/commits/master/">Implementation of data structures</a> 
 - Theory of Computation, Spring 2024
 
-<b>Note:</b> For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP). But these notes will be released after graduation from my PhD.
-For more information: <a href="https://github.com/sushmaakoju/research-experience/tree/main?tab=readme-ov-file#disclaimer">Please refer this</a> and <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md#learning-as-a-hobby-neurosymbolic-methods-in-ai"> this note</a>.
 
 ### Cite this repository
 
@@ -304,15 +292,15 @@ If you found this repository helpful and have used any of the documents on this 
     author       = {sushmaanandakoju},
     year         = {2015-present},
     note         = {[Accessed in 2023/2024/2025]},
-    howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+    howpublished = {\url{https://github.com/sushmaakoju/research-experience}},
 }
 ```
 
 
 ### Note about criticisms
-While pursuing my research independently, I have encountered various forms of feedback and critique - some constructive, others less so. I maintain selective engagement with criticism based on several factors rooted in professional experience and personal boundaries.
+While pursuing my research independently, I have encountered various forms of feedback and critique - some constructive, others less so. I maintain selective engagement with criticism based on several factors rooted in professional experience, value-alignment, research-alignment and personal boundaries.
 
-I recognize that interdisciplinary expertise spanning multiple domains may not always be immediately understood or appreciated. Recognition of innovative work often requires time. I encourage those who value scholarly diversity to support researchers with unique skill sets, as such individuals may face disproportionate challenges in traditional academic environments.
+I recognize that interdisciplinary expertise spanning multiple domains may not always be immediately understood or appreciated or even supported. Recognition of innovative work often requires time. I encourage those who value scholarly diversity to support researchers with unique skill sets, as such individuals may face disproportionate challenges from Intellectual competitions that may naturally invite deception and manipulation/from social comparison.
 
 ------------------------------------------
 

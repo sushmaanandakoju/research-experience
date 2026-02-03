@@ -1,10 +1,10 @@
 ## Research experience of Sushma Anand Akoju, she/her/hers, Aug 2012 - Present
 
-**Keywords:** Natural Language Understanding, MultiModal models, Large Language Models (LLMs), Cognitive Science, Neurosceince, Vision-based LLMs, Neurosymbolic Methods, reasoning and teaching.
+**Keywords:** Representational Alignment, Human-AI/Brain-AI Alignment, Multimodal AI/NLP, Cognitive Science, Neuroscience and Teaching.
 
 00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
-0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md">Neurosymbolic methods: From learning as a hobby towards academic goals</a>
+0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/study.md">From learning as a hobby towards academic goals</a>
 
 1. <a href="https://github.com/sushmaakoju/research-experience/blob/main/first-order-logic-as-a-tool.md">Steps taken to spread awareness on First Order Logic for reasoning in Language Understanding of our daily life</a>
 
