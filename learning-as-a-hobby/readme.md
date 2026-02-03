@@ -1,6 +1,8 @@
 ## Learning as a Hobby: Courses, Workshops, Tutorials & Status
 
-Sushma Anand Akoju, she/her/hers, May 2025
+Sushma Anand Akoju, she/her/hers, Jan 2026
+
+**This status on these files is no longer updated, February 2026.**
 
 This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries.
 

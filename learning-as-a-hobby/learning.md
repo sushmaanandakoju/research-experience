@@ -1,6 +1,8 @@
 
 ## Learning as a hobby: AI
 
+**This status on these files is no longer updated, February 2026.**
+
 I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries. My gratitude to all longterm mentors and shortterm mentors whenever I received support. I did not consistently receive mentorship, but it was some occassions when my mentors recognized I was interested to study. I hope this brings inspiration for anyone to study anything one likes and be committed and disciplined to learn. 
 
 <p id="context" class="highlight"><strong>Note about Neurosymbolic AI: </strong> Although neurosymbolic AI was an exciting area for me in the past, I'm no longer working on that topic. It was a pleasure to be part of NeSy groups. I'm glad my learning projects have inspired others in Arizona and other places.</p>
